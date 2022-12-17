@@ -1,0 +1,1 @@
+javac -cp . src/*.java && java -cp . src.Main
